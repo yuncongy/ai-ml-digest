@@ -2,6 +2,7 @@
 
 TOP_N = 5                  # Number of articles to include in each digest
 DEDUP_WINDOW_DAYS = 7      # How many days to remember a seen article
+MAX_PER_SOURCE = 2         # Max articles from any single source per digest
 
 # ─── RSS feed sources ─────────────────────────────────────────────────────────
 

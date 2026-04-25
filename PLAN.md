@@ -69,7 +69,7 @@ daily_news/
 | M1 | Project setup | Conda env, folder structure, `config.py`, `requirements.txt` | [x] |
 | M2 | RSS fetcher | `fetcher.py` — fetch all feeds, return normalized article list | [x] |
 | M3 | Deduplication | `deduplicator.py` — JSON store, skip seen URLs, expire after 7 days | [x] |
-| M4 | Scoring & selection | `scorer.py` — rank by recency + source diversity, return top 5 | [ ] |
+| M4 | Scoring & selection | `scorer.py` — rank by recency + source diversity, return top 5 | [x] |
 | M5 | Markdown renderer | `renderer.py` — produce `digests/YYYY-MM-DD.md` with title, source, link, excerpt | [ ] |
 | M6 | GitHub Actions | `.github/workflows/daily_digest.yml` — runs at 7am UTC daily, commits digest | [ ] |
 | M7 *(future)* | Gmail delivery | Replace/extend renderer to send HTML email via Gmail SMTP | [ ] |

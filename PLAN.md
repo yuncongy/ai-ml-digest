@@ -67,7 +67,7 @@ daily_news/
 | # | Milestone | Deliverable | Status |
 |---|---|---|---|
 | M1 | Project setup | Conda env, folder structure, `config.py`, `requirements.txt` | [x] |
-| M2 | RSS fetcher | `fetcher.py` — fetch all feeds, return normalized article list | [ ] |
+| M2 | RSS fetcher | `fetcher.py` — fetch all feeds, return normalized article list | [x] |
 | M3 | Deduplication | `deduplicator.py` — JSON store, skip seen URLs, expire after 7 days | [ ] |
 | M4 | Scoring & selection | `scorer.py` — rank by recency + source diversity, return top 5 | [ ] |
 | M5 | Markdown renderer | `renderer.py` — produce `digests/YYYY-MM-DD.md` with title, source, link, excerpt | [ ] |

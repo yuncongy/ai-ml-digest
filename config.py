@@ -1,8 +1,27 @@
+# ─── Service toggle ───────────────────────────────────────────────────────────
+
+ENABLED = True          # Set to False to pause the service without removing anything
+
+# ─── Schedule settings ────────────────────────────────────────────────────────
+
+SEND_DAY = "monday"     # Which day of the week to send the digest email
+                        # Options: monday  tuesday  wednesday  thursday
+                        #          friday  saturday  sunday
+# Note: send TIME is controlled by the cron line in .github/workflows/daily_digest.yml
+
 # ─── Digest settings ──────────────────────────────────────────────────────────
 
-TOP_N = 5                  # Number of articles to include in each digest
-DEDUP_WINDOW_DAYS = 7      # How many days to remember a seen article
-MAX_PER_SOURCE = 2         # Max articles from any single source per digest
+TOP_N            = 10   # Articles per weekly digest
+DEDUP_WINDOW_DAYS = 7   # Days to remember a seen article (prevents repeats across weeks)
+MAX_PER_SOURCE   = 3    # Max articles from any single source in one digest
+
+# ─── Email settings ───────────────────────────────────────────────────────────
+
+EMAIL_TO      = "17yuyuncong@gmail.com"
+EMAIL_FROM    = "17yuyuncong@gmail.com"
+EMAIL_SUBJECT = "Weekly AI/ML News Digest"
+# GMAIL_USER and GMAIL_APP_PASSWORD are read from environment variables.
+# Set them as GitHub Actions secrets (Settings → Secrets → Actions).
 
 # ─── RSS feed sources ─────────────────────────────────────────────────────────
 
@@ -35,6 +54,6 @@ RSS_FEEDS = [
 
 # ─── File paths ───────────────────────────────────────────────────────────────
 
-DATA_DIR = "data"
-DIGESTS_DIR = "digests"
+DATA_DIR           = "data"
 SEEN_ARTICLES_FILE = f"{DATA_DIR}/seen_articles.json"
+WEEKLY_POOL_FILE   = f"{DATA_DIR}/weekly_pool.json"

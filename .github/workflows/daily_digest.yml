@@ -1,15 +1,19 @@
-name: Daily AI/ML News Digest
+name: Weekly AI/ML News Digest
 
 on:
   schedule:
-    - cron: "0 7 * * *"   # Every day at 7:00 AM UTC
-  workflow_dispatch:        # Allow manual trigger from GitHub Actions tab
+    # Runs every day at 7:00 AM UTC to accumulate articles.
+    # On SEND_DAY (set in config.py), it also sends the email.
+    #
+    # To change the send TIME, edit the hour below (0–23 UTC):
+    - cron: "0 7 * * *"
+  workflow_dispatch:   # Manual trigger from the Actions tab
 
 permissions:
-  contents: write           # Needed to commit the digest back to the repo
+  contents: write      # Needed to commit the data store back to the repo
 
 jobs:
-  build-digest:
+  digest:
     runs-on: ubuntu-latest
 
     steps:
@@ -25,18 +29,20 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run digest pipeline
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
         run: python src/main.py
 
-      - name: Commit digest and seen-articles store
+      - name: Commit data store
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add digests/ data/seen_articles.json
+          git add data/
 
-          # Only commit if there is something new to commit
           if git diff --cached --quiet; then
-            echo "Nothing new to commit — skipping."
+            echo "No data changes to commit."
           else
-            git commit -m "digest: $(date -u '+%Y-%m-%d') daily AI/ML news update"
+            git commit -m "data: update article store $(date -u '+%Y-%m-%d')"
             git push
           fi

@@ -30651,5 +30651,75 @@
     "source": "The Verge AI",
     "published": "2026-05-14T11:00:00+00:00",
     "excerpt": "The tyranny of software is almost over. Since the first computer programmers wrote the first computer programs, we, the users of that software, have been forced to live in the worlds those programs create. The features are the features. The design is the design. Want something else, something better"
+  },
+  {
+    "title": "Musk v. Altman week 3: Musk and Altman traded blows over each other\u2019s credibility. Now the jury will pick a side.",
+    "url": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-05-15T23:39:35+00:00",
+    "excerpt": "In the final week of the Musk v. Altman trial, lawyers traded blows over Elon Musk\u2019s and OpenAI CEO Sam Altman\u2019s credibility. Altman was grilled on his alleged history of lying and self-dealing involving companies that do business with OpenAI. But he fired back, painting Musk as a power-seeker who w"
+  },
+  {
+    "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
+    "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+    "source": "The Verge AI",
+    "published": "2026-05-15T22:25:00+00:00",
+    "excerpt": "YouTube is expanding its AI likeness detection program to all users over the age of 18 - meaning just about anyone can have the platform hunt for potential deepfakes of themselves. The likeness detection feature uses a selfie-style scan of a person's face to monitor YouTube for lookalikes. If there "
+  },
+  {
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "source": "The Verge AI",
+    "published": "2026-05-15T20:38:19+00:00",
+    "excerpt": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated references or \"meta-comments\" l"
+  },
+  {
+    "title": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+    "source": "The Verge AI",
+    "published": "2026-05-15T18:21:35+00:00",
+    "excerpt": "OpenAI announced yet another reorganization Friday, consolidating certain areas and making company president Greg Brockman the official lead of all things product. In a memo viewed by The Verge, Brockman wrote that since OpenAI's product strategy for this year is to go all-in on AI agents, the compa"
+  },
+  {
+    "title": "AI radio hosts demonstrate why AI can\u2019t be trusted alone",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931479/andon-labs-ai-radio-companies",
+    "source": "The Verge AI",
+    "published": "2026-05-15T17:09:16+00:00",
+    "excerpt": "Andon Labs has been running a series of experiments in which AI agents run businesses without human intervention. Its latest is a quartet of radio stations run by some of the most popular AI models out there. \"Thinking Frequencies\" is run by Claude, \"OpenAIR\" by ChatGPT, \"Backlink Broadcast\" by Goog"
+  },
+  {
+    "title": "Does Trump Mobile know how many stripes are on the American flag?",
+    "url": "https://www.theverge.com/gadgets/931347/trump-mobile-t1-phone-logo-flag-stars-stripes",
+    "source": "The Verge AI",
+    "published": "2026-05-15T16:47:16+00:00",
+    "excerpt": "Where's the Trump phone? We're going to keep talking about it every week. We've reached out, as usual, to ask about the Trump phone's whereabouts. This week, despite our best hopes, we still don't have our phone - but we do have some fresh doubts about the company's patriotic credentials. This has b"
+  },
+  {
+    "title": "Google updates its spam rules to include attempts to \u2018manipulate\u2019 AI",
+    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
+    "source": "The Verge AI",
+    "published": "2026-05-15T16:42:59+00:00",
+    "excerpt": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or manipulate our Search sys"
+  },
+  {
+    "title": "OpenAI now wants ChatGPT to access your bank accounts",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/931122/openai-chatgpt-financial-accounts-plaid-connection",
+    "source": "The Verge AI",
+    "published": "2026-05-15T16:00:00+00:00",
+    "excerpt": "Your trust in AI is about to be put to the test: OpenAI will soon let you give the chatbot direct access to your bank accounts. The new feature announced in preview today will allow users to \"securely connect\" ChatGPT with Plaid - the bank-to-app bridging platform used by 12,000 financial institutio"
+  },
+  {
+    "title": "The promises and pitfalls of personalized health",
+    "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+    "source": "The Verge AI",
+    "published": "2026-05-15T14:00:00+00:00",
+    "excerpt": "This is Optimizer, a weekly newsletter sent every Friday from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. A few days ago, my esthetician was smearing hot wax on my face. The two"
+  },
+  {
+    "title": "AI research papers are getting better, and it\u2019s a big problem for scientists",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
+    "source": "The Verge AI",
+    "published": "2026-05-15T11:00:00+00:00",
+    "excerpt": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a particular type of stat"
   }
 ]

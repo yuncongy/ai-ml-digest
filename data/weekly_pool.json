@@ -106615,5 +106615,40 @@
     "source": "The Verge AI",
     "published": "2026-06-12T14:03:39+00:00",
     "excerpt": "Amazon founder Jeff Bezos says his new AI startup will work toward developing an \"artificial general engineer,\" according to reports from The New York Times and CNBC. The startup, called Prometheus, aims to develop AI-powered engineering tools to aid in the design of physical products. The NYT first"
+  },
+  {
+    "title": "Amazon security research reportedly led to the White House\u2019s Anthropic Fable ban",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "source": "The Verge AI",
+    "published": "2026-06-13T21:39:26+00:00",
+    "excerpt": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the report, the paper from Amazon"
+  },
+  {
+    "title": "My yard is dying, so I made an app for that",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/942119/vibecoding-backyard-app-gardening-organizing",
+    "source": "The Verge AI",
+    "published": "2026-06-13T13:00:00+00:00",
+    "excerpt": "When I returned to my computer five minutes after giving Gemini a lengthy prompt, I had two things: a functional app in a preview window, and a message about a bug. \"~ Channel is unrecoverably broken and will be disposed!\" Sounded bad! But right below it was a button to fix the bug. Pretty weird [\u2026]"
+  },
+  {
+    "title": "Anthropic cuts off Fable 5 and Mythos 5 access following government order",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949553/anthropic-fable-5-mythos-5-government-national-security",
+    "source": "The Verge AI",
+    "published": "2026-06-13T12:55:49+00:00",
+    "excerpt": "On Friday evening, the government ordered Anthropic to block access to Fable 5 and Mythos 5 for all foreign nations, both inside and outside the US, due to national security concerns. That order included employees of Anthropic. To meet those demands, the company has completely cut off access to the "
+  },
+  {
+    "title": "Apple\u2019s new AI photo editing tools mostly work, for better and worse",
+    "url": "https://www.theverge.com/tech/949360/apple-ai-photo-edit-reframe-extend-clean-up-hands-on",
+    "source": "The Verge AI",
+    "published": "2026-06-13T12:00:00+00:00",
+    "excerpt": "The most popular camera in the world just got its first set of serious AI photo editing features, and I don't think any of us are ready. As far as AI photo editing goes, the new features in iOS 27 are pretty tame compared to what you can do on, say, Google's Pixel phones. But [\u2026]"
+  },
+  {
+    "title": "The future of Hollywood isn\u2019t feeding prompts into vanilla gen AI models",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/948425/tribeca-2026-dear-upstairs-neighbors-google-deepmind-openai",
+    "source": "The Verge AI",
+    "published": "2026-06-13T11:00:00+00:00",
+    "excerpt": "For all the noise that's been made about how generative AI is poised to revolutionize the filmmaking industry, there haven't really been any projects created with the technology that felt like the sort of entertainment people would pay to see. Most AI firms' video models are still only capable of ch"
   }
 ]

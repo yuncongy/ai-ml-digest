@@ -122932,5 +122932,40 @@
     "source": "The Verge AI",
     "published": "2026-06-20T18:46:48+00:00",
     "excerpt": "Atlantic reporter Alex Reisner recently uncovered four datasets of music being used to train AI models and made them fully searchable for the public. Two of the sets are absolutely enormous at 12 million and 9 million tracks. The other two are much smaller, but still represent a significant amount o"
+  },
+  {
+    "title": "The $400 million machine powering the future of chipmaking",
+    "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-06-23T09:00:00+00:00",
+    "excerpt": "Jos Benschop is climbing a ladder to get to the top of his newest machine.\u00a0 It\u2019s a bit of a schlep. The contraption is the size of a double-decker bus\u2014more than 150 tons of gleaming precision-milled aluminum covered in thousands of snaking tubes, colored cables, and pressurized tanks. From the groun"
+  },
+  {
+    "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
+    "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-06-22T18:00:00+00:00",
+    "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. For those of you enjoying your summer unaware of Anthropic\u2019s latest feud with the US government, here\u2019s a recap: In April the company said it had built an AI mode"
+  },
+  {
+    "title": "Nvidia says its AI data center design runs hotter to use a lot less water",
+    "url": "https://www.theverge.com/tech/954139/nvidia-data-centers-rubin-liquid-cooling",
+    "source": "The Verge AI",
+    "published": "2026-06-22T23:24:32+00:00",
+    "excerpt": "Public pushback against data centers has emphasized their water and energy consumption, and now Nvidia is highlighting its claim that the Rubin generation reference design for a fully liquid-cooled data center has \"eliminated massive amounts of power usage and pretty much all water usage.\" Still, it"
+  },
+  {
+    "title": "AI is cursing renters with the promise of impossible homes",
+    "url": "https://www.theverge.com/report/953888/ai-virtual-staging-real-estate-apartment-listings",
+    "source": "The Verge AI",
+    "published": "2026-06-22T20:00:00+00:00",
+    "excerpt": "Joyce, a native New Yorker, didn't think finding her first solo apartment in the city would be easy. But she also didn't think it'd be \"hell.\" After looking at a lot of tiny, overpriced places she described as \"shitholes,\" Joyce found her dream apartment: a reasonably priced studio in Manhattan. \"It"
+  },
+  {
+    "title": "Read this before you vibe-code another app",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
+    "source": "The Verge AI",
+    "published": "2026-06-22T11:00:00+00:00",
+    "excerpt": "Bob Starr was delighted with his vibe-coded website. \"Boomberg\" showed how much US tax money is going to tech companies, and Starr launched it online immediately after making it. It wasn't until months after the site went live that he realized there was a problem: a hidden SQL injection risk. It cou"
   }
 ]

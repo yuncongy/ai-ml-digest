@@ -1,11 +1,4 @@
 {
-  "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/": "2026-07-25T09:02:11.286730+00:00",
-  "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/": "2026-07-25T09:02:11.286730+00:00",
-  "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition": "2026-07-25T09:02:11.286730+00:00",
-  "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast": "2026-07-25T09:02:11.286730+00:00",
-  "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release": "2026-07-25T09:02:11.286730+00:00",
-  "https://www.theverge.com/tech/970570/meta-ai-chatbot-productivity-update": "2026-07-25T09:02:11.286730+00:00",
-  "https://www.theverge.com/science/970534/genesis-mission-ai-science-funding-trump-grants": "2026-07-25T09:02:11.286730+00:00",
   "https://arxiv.org/abs/2607.22544": "2026-07-28T09:36:38.893545+00:00",
   "https://arxiv.org/abs/2607.22548": "2026-07-28T09:36:38.893545+00:00",
   "https://arxiv.org/abs/2607.22549": "2026-07-28T09:36:38.893545+00:00",
@@ -1920,5 +1913,10 @@
   "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai": "2026-07-31T09:45:22.773809+00:00",
   "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and": "2026-07-31T09:45:22.773809+00:00",
   "https://venturebeat.com/technology/anthropic-launches-cowork-a-claude-desktop-agent-that-works-in-your-files-no": "2026-07-31T09:45:22.773809+00:00",
-  "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in": "2026-07-31T09:45:22.773809+00:00"
+  "https://venturebeat.com/technology/nous-researchs-nouscoder-14b-is-an-open-source-coding-model-landing-right-in": "2026-07-31T09:45:22.773809+00:00",
+  "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool": "2026-08-01T09:06:20.840356+00:00",
+  "https://www.theverge.com/ai-artificial-intelligence/973764/google-earth-ai-satellite-images": "2026-08-01T09:06:20.840356+00:00",
+  "https://www.theverge.com/ai-artificial-intelligence/973741/ai-music-major-record-labels-charts": "2026-08-01T09:06:20.840356+00:00",
+  "https://www.theverge.com/podcast/973668/ai-safety-openai-hugging-face-vergecast": "2026-08-01T09:06:20.840356+00:00",
+  "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests": "2026-08-01T09:06:20.840356+00:00"
 }

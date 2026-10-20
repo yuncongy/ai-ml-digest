@@ -362521,5 +362521,82 @@
     "source": "The Verge AI",
     "published": "2026-10-17T13:00:00+00:00",
     "excerpt": "Autonomous agents are the hottest thing in AI. OpenAI, Meta, Google, Instinct, and others promise their agents can scour the internet on your behalf, doing anything from booking a dinner reservation and cleaning out your inbox to buying new shoes. But what happens when the rest of the internet won't"
+  },
+  {
+    "title": "AI adoption by industry shows what other sectors can learn",
+    "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-10-20T12:00:00+00:00",
+    "excerpt": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption\u2013tech is just the first industry in line. As generative AI and automation tools mature, the shifts curre"
+  },
+  {
+    "title": "A visit to Samsung\u2019s massive new semiconductor hub",
+    "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-10-20T09:00:00+00:00",
+    "excerpt": "Generative AI models run on powerful chips known as GPUs, which depend on stacks of specialized memory chips packaged with the processor. To meet growing demand for memory, Samsung is building a massive new semiconductor manufacturing complex in Pyeongtaek, South Korea. Three fabs already operate ar"
+  },
+  {
+    "title": "Making the internet better for AI agents might make it worse for everyone else",
+    "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-10-19T18:22:47+00:00",
+    "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like captur"
+  },
+  {
+    "title": "\u201cWe were looking at it wrong\u201d: The explosive claim that\u2019s upended the AI world",
+    "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-10-19T17:45:55+00:00",
+    "excerpt": "\u201cI think I have good news about the nature of neural networks.\u201d With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and not-so-cautio"
+  },
+  {
+    "title": "AI researchers stranded Claude on a virtual desert island. It started to \u201cplay.\u201d",
+    "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-10-19T09:08:05+00:00",
+    "excerpt": "What do AI agents do if you don\u2019t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents\u2014copies of Claude Opus 4.7 nicknamed Eko\u2014were"
+  },
+  {
+    "title": "The fossil fuel comeback is here",
+    "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+    "source": "The Verge AI",
+    "published": "2026-10-19T21:48:01+00:00",
+    "excerpt": "The US is building more fossil fuel infrastructure than it has in a decade while renewable energy growth slows down, a new report shows. Electricity demand is also climbing faster than it has in more than a decade with more data centers, factories, and electric vehicles plugging into the grid. Despi"
+  },
+  {
+    "title": "CoreWeave&#8217;s debt is becoming the whole AI industry&#8217;s problem",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1014045/coreweave-stock-debt-sector-ai",
+    "source": "The Verge AI",
+    "published": "2026-10-19T21:28:20+00:00",
+    "excerpt": "CoreWeave had a bad week last week. Its bonds slipped into distressed territory by a common definition - when investors demand 1,000 basis points more in yield than they'd get from government bonds. Last Tuesday Chamath \"SPAC King\" Palihapitiya noticed the distressed debt, and also asked whether the"
+  },
+  {
+    "title": "JB Pritzker thinks AI could help us live to 100 \u2014 or threaten us like nukes",
+    "url": "https://www.theverge.com/podcast/1012839/pritzker-ai-privacy-data-centers-flock-congress-laws",
+    "source": "The Verge AI",
+    "published": "2026-10-19T14:30:00+00:00",
+    "excerpt": "Today, I\u2019m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you\u2019ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment \u2014 and with the midterms c"
+  },
+  {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
+    "source": "The Verge AI",
+    "published": "2026-10-19T13:58:41+00:00",
+    "excerpt": "A hacker broke into more than 100 websites using an army of AI agents that mostly operated on their own, according to findings from the AI security firm Norforge. Though Norforge doesn't name the targets, Reuters reports that the victims included companies like John Deere, SharkNinja, and Cummins. C"
+  },
+  {
+    "title": "Democrats think cracking down on AI could give them an edge",
+    "url": "https://www.theverge.com/policy/1013113/democrats-ai-midterms",
+    "source": "The Verge AI",
+    "published": "2026-10-19T12:00:00+00:00",
+    "excerpt": "Democrats could win back control of Congress this November, and if they do, they'll need to decide how to approach one of the country's newest and thorniest political issues: AI. Polls predict Democrats will flip at least one chamber of Congress in the midterm elections, which would put committee le"
+  },
+  {
+    "title": "A woman was arrested in Philly for blocking a delivery robot",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+    "source": "The Verge AI",
+    "published": "2026-10-18T18:28:10+00:00",
+    "excerpt": "Carolyn Marvin was arrested and charged with disorderly conduct after blocking the path of an Uber delivery robot and refusing to get out of the way. Marvin told Philadelphia's ABC13 \"I know they're taking the jobs of human delivery workers and so, I have been protesting them whenever I saw them by "
   }
 ]

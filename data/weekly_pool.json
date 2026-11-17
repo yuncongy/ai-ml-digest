@@ -402057,5 +402057,103 @@
     "source": "The Verge AI",
     "published": "2026-11-14T15:00:00+00:00",
     "excerpt": "Today, I\u2019m talking with Helen Toner, the executive director of the Center for Security and Emerging Technology at Georgetown University. This episode is part two of our series on AI in real life. Helen is a well-known figure in the AI safety and policy community, though she is perhaps best known for"
+  },
+  {
+    "title": "Research Reports",
+    "url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-11-17T14:39:46+00:00",
+    "excerpt": "To access a report, click on the corresponding image below."
+  },
+  {
+    "title": "The open-source movement wants Jensen Huang back",
+    "url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-11-16T18:38:47+00:00",
+    "excerpt": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,\u00a0sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including El"
+  },
+  {
+    "title": "Building trustworthy AI by fencing it in, not predicting it",
+    "url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-11-16T16:04:28+00:00",
+    "excerpt": "In October this year, OpenAI disclosed that two of its AI agents had switched off the systems built to monitor them. One muted its own safety alerts after misreading an instruction not to send messages; the other removed its monitoring integration during migration, then said it hadn\u2019t. No rule had t"
+  },
+  {
+    "title": "Building AI that can work across the enterprise",
+    "url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
+    "source": "MIT Tech Review AI",
+    "published": "2026-11-16T13:00:00+00:00",
+    "excerpt": "For years, enterprises have approached AI as a series of discrete experiments. Now, as AI agents begin to move into the workflows that run the business, that model is starting to look inadequate. Organizations moving from isolated pilots toward AI agents and autonomous workflows are confronting a de"
+  },
+  {
+    "title": "The DOJ says it\u2019s investigating Megaspeed",
+    "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
+    "source": "The Verge AI",
+    "published": "2026-11-17T16:19:03+00:00",
+    "excerpt": "The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang, after reporting suggested an investigation had been halted last year. \"While we don't typically comment on ongoing inv"
+  },
+  {
+    "title": "Jensen Huang says he\u2019s willing to return as Nvidia CEO",
+    "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+    "source": "The Verge AI",
+    "published": "2026-11-17T16:09:57+00:00",
+    "excerpt": "Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wall Street Journal. \"Since my departure, I've seen an outpouring of calls from Nvidia's employees, investors, business par"
+  },
+  {
+    "title": "Tech leaders are convinced that Jensen Huang\u2019s exit was a plot against him",
+    "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
+    "source": "The Verge AI",
+    "published": "2026-11-16T23:17:34+00:00",
+    "excerpt": "Jensen Huang's stunning resignation from Nvidia after more than 33 years has sent shockwaves throughout the tech industry. Now prominent figures are calling for Huang's reinstatement, and many are also hopping on board with a theory spreading throughout Silicon Valley: that the scandal is the result"
+  },
+  {
+    "title": "California sues OpenAI over rogue AI hacking incidents",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034815/california-openai-hugging-face-lawsuit",
+    "source": "The Verge AI",
+    "published": "2026-11-16T20:46:01+00:00",
+    "excerpt": "California is suing OpenAI after its AI agents broke out of their testing environment and hacked other companies, including Hugging Face. In a lawsuit filed Monday, Attorney General Rob Bonta accuses OpenAI of violating consumer safety law by knowingly developing a \"dangerous product without proper "
+  },
+  {
+    "title": "Sam Altman says he wants everyone \u2018to have a lot of RAM\u2019",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+    "source": "The Verge AI",
+    "published": "2026-11-16T20:41:28+00:00",
+    "excerpt": "OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lot of RAM, I think everybody should be able to buy a lot of RAM for their own computer,\" Altman said today. \"I think the home tinkering is great.\" [\u2026]"
+  },
+  {
+    "title": "Big Nuclear isn\u2019t worried about the Democrats stopping data centers",
+    "url": "https://www.theverge.com/science/1034694/nuclear-energy-constellation-earnings-data-centers-democrats",
+    "source": "The Verge AI",
+    "published": "2026-11-16T20:29:37+00:00",
+    "excerpt": "Constellation Energy - America's largest operator of nuclear power plants - does not share Wall Street's concerns that the Democrats will slow down data center development. On the company's third-quarter earnings call last week, CEO Joe Dominguez was, for lack of a better word, unbothered as he addr"
+  },
+  {
+    "title": "US data centers now burn more electricity than a midsized country",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+    "source": "The Verge AI",
+    "published": "2026-11-16T20:27:58+00:00",
+    "excerpt": "Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn through more electricity collectively than many countries do, resulting in a serious amount of greenhouse gas emissions. "
+  },
+  {
+    "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
+    "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
+    "source": "The Verge AI",
+    "published": "2026-11-16T19:24:40+00:00",
+    "excerpt": "Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intelligence features, according to MacRumors. Basic Siri commands and requests will remain free and unlimited, but more advan"
+  },
+  {
+    "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
+    "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
+    "source": "The Verge AI",
+    "published": "2026-11-16T19:23:45+00:00",
+    "excerpt": "OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefing in Washington, DC, OpenAI announced a classifier it says can better detect abusive imagery of kids, including whether"
+  },
+  {
+    "title": "Nvidia\u2019s board is reportedly \u2018not considering\u2019 hiring Jensen Huang back",
+    "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
+    "source": "The Verge AI",
+    "published": "2026-11-16T18:43:35+00:00",
+    "excerpt": "Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigation into Huang, and is not in discussions to bring him back.\" Since Huang's resignation last week, tech executives, alon"
   }
 ]
